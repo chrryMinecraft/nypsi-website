@@ -20,6 +20,7 @@ have your birthday changed.
 
 you can use `/birthday toggle` to toggle whether your birthday will be announced in servers or not.
 
+<DocsHeader header='h2' text="Server Admin Options" />
 <DocsHeader header='h2' text="setting a birthday announcement channel" />
 
 for this you must have the `manage server` permission. use `/birthday channel #channel` to set the
